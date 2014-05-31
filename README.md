@@ -1,4 +1,4 @@
-readacta
+debacta
 ========
 
 * [Polish] Odczytywalny przez maszyny zapis debaty nt. porozumienia ACTA  przeprowadzonej w dniu 6 lutego 2012 przy udziale premiera Donalda Tuska. 
