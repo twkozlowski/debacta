@@ -1,0 +1,31 @@
+h1 {
+	font-size: 1.2em;
+	text-align: center;
+	margin-bottom: .3em;
+}
+
+#subline {
+	font-size: 1.1em;
+	text-align: center;
+}
+
+#wrapper { 
+	width: 70%;
+	margin: 0 auto;
+	margin-top: 1em;
+	text-align: justify;
+}
+
+.speaker {
+	margin-left: .5em;
+}
+
+.speaker::first-line {
+	font-weight: bold;
+}
+.speaker p {
+	margin-left: -.5em;
+}
+.fromeditor {
+	font-style: italic;
+}
