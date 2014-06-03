@@ -23,9 +23,11 @@ h1 {
 .speaker::first-line {
 	font-weight: bold;
 }
+
 .speaker p {
 	margin-left: -.5em;
 }
+
 .fromeditor {
 	font-style: italic;
 }
