@@ -9,17 +9,15 @@ h1 {
 	text-align: center;
 }
 
-#endline {
-	font-size: 1.1em;
-	margin-bottom: 1em;
-	text-align: center;
-}
-
 #wrapper { 
 	width: 70%;
 	margin: 0 auto;
 	margin-top: 1em;
 	text-align: justify;
+}
+
+#endnote {
+	text-align: center;
 }
 
 .speaker {
@@ -37,3 +35,4 @@ h1 {
 .fromeditor {
 	font-style: italic;
 }
+
